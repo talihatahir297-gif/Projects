@@ -69,11 +69,6 @@ NumberGuessing Project/
 | `NumberGuessing.java` | Contains the complete Java source code for the game. |
 | `game.txt`           | Stores game configurations, rules, or high-score logs (optional). |
 
----
-
-## 📸 Screenshot (optional)
-
-> *Add a screenshot of the game running here if available.*
 
 ---
 
